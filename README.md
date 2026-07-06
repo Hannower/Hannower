@@ -65,18 +65,6 @@ Em breve, esta seção reunirá os projetos que melhor representam minhas habili
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hannower&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hannower&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 # 📫 Contato
 
 <!-- Adicione seus links -->
