@@ -62,6 +62,7 @@ Em breve, esta seção reunirá os projetos que melhor representam minhas habili
 > Site desenvolvido em equipe para uma loja de carros real, projeto de conclusão de curso. Conta com página inicial (banner, localização e catálogo de veículos) e painel administrativo completo. Fui responsável pela tela de login, pelo dashboard de veículos cadastrados e pelos formulários de cadastro e edição.
 
 [Clique aqui e acesse o projeto](https://mwcar.vercel.app/)
+
 ---
 
 # 📫 Contato
