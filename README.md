@@ -63,6 +63,12 @@ Em breve, esta seção reunirá os projetos que melhor representam minhas habili
 
 [Clique aqui e acesse o projeto](https://mwcar.vercel.app/)
 
+### 🔹 CashBank - Controle financeiro
+
+> CashBank é uma plataforma full-stack de gestão financeira pessoal que centraliza fluxo de caixa em tempo real, cofrinhos de metas, despesas fixas/variáveis, cartões e planejamento anual. Caso queira experimentar, use a conta fictícia: email: josesantos@email.com senha: 123456.
+
+[Clique aqui e acesse o projeto](https://cashbank-three.vercel.app/))
+
 ---
 
 # 📫 Contato
